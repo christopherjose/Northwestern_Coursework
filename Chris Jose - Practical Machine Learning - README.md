@@ -13,7 +13,7 @@ Jupyter Notebook, R
 
 
 ### OUTPUT FILES:  
-Chris Jose - Practical Machine Learning - Pred 422 - contains project code <br /> 
+Chris Jose - Practical Machine Learning - Pred 422.ipynb - contains project code <br /> 
 Chris Jose - Practical Machine Learning - Pred 422.pdf - contains the report writeup 
 
 
